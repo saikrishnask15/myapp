@@ -205,6 +205,7 @@ function App() {
             </label>
           </div>
           <div className="from-radio-grp2"> 
+          <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -213,8 +214,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               C++
-            </div>
+              </label>
+           </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -223,8 +226,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               Java
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -233,8 +238,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               Python
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -243,8 +250,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               JavaScript
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -253,8 +262,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               React
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
               name="language_framework"
@@ -263,8 +274,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               Angular
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
                name="language_framework"
@@ -273,8 +286,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               Django
+              </label>
             </div>
             <div className="from-radio-grp2">
+            <label>
               <input
               type="checkbox"
                name="language_framework"
@@ -283,8 +298,10 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               TailwindCSS
+              </label>
             </div>
             <div className="from-radio-grp2">
+               <label>
               <input
               type="checkbox"
                name="language_framework"
@@ -293,6 +310,7 @@ function App() {
               onChange={handleLanguageFrameworkChange}
               />
               Bootstrap
+              </label>
             </div>  
             </div> 
         
